@@ -1,6 +1,6 @@
 # Prueba
 public int t() {
-	int a =33;
+	int a =66;
 	return a;
 	
 	}
